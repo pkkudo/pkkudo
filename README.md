@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 - Learning to code in go
 - Using Cloudflare, GCP, and AWS for small, personal projects
 - GCP Associate Cloud Engineer certified (expired)
-- Personal notes generated using MkDocs, [beryl](https://beryl.blink-1x52.net/)
+- Personal notes generated using MkDocs, [beryl](https://beryl.blink-1x52.net/), and specifically on [my homelab here](https://beryl.blink-1x52.net/homelab/)
 - Public articles in Japanese available at [pkkudo@zenn.dev](https://zenn.dev/pkkudo)
     - [ja] an article series on settings up Kubernetes + GitLab + Flux GitOps [here](https://zenn.dev/pkkudo/articles/39085bca8a0f85)
     - [ja] an article series on home lab using Docker [here](https://zenn.dev/pkkudo/articles/0e6c2a989bb98e) (NGINX as reverse proxy, unbound for DNS, GitLab, and etc.)
