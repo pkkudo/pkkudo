@@ -30,3 +30,5 @@ You can click the Preview link to take a look at your changes.
 - Public articles in Japanese available at [pkkudo@zenn.dev](https://zenn.dev/pkkudo)
     - [ja] an article series on settings up Kubernetes + GitLab + Flux GitOps [here](https://zenn.dev/pkkudo/articles/39085bca8a0f85)
     - [ja] an article series on home lab using Docker [here](https://zenn.dev/pkkudo/articles/0e6c2a989bb98e) (NGINX as reverse proxy, unbound for DNS, GitLab, and etc.)
+
+My main VCS is on self-managed, private GitLab, and I use GitHub to add public repositories to share scripts with my engineer buddies, and to manage articles and books on Zenn.
