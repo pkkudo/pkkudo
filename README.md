@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 - Experienced network engineer proficient in routing and switching for the Internet edge, enterprise core, and WAN networks. Skilled in load balancing, GSLB, firewall, proxy, DNS, DHCP, IPAM, and more
 - In-house automation scripts for operation, reporting, and changes written in python, powershell, and shell script
 - Self-learner with interest in IaC, DevOps, and running open source softwares, playing with home lab running Kubernetes cluster and docker containers
+    - Part of my latest homelab setup available in <https://github.com/pkkudo/homelab-v3> its document here <https://beryl.blink-1x52.net/homelab-v3/1741076584-building-high-availability-kubernetes-cluster-with-ansible/>
     - Mainly using self-managed, private GitLab as my repository, hosting private GitLab Pages sites, running GitLab CI/CD pipeline to build images, publish Pages sites and so on
     - GitOps for my Kubernetes cluster using GitLab and Flux, and SOPS for secret handling
     - Gateway API on Kubernetes cluster using NGINX Gateway Fabric, and MetalLB for l2 advertisement
